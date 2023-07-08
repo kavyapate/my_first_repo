@@ -1,0 +1,29 @@
+{
+  "name": "chrome_extention_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chromedriver": "^114.0.2",
+    "dotenv": "^16.3.1",
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "got": "^13.0.0",
+    "htmlparser2": "^9.0.0",
+    "jsdom": "^22.1.0",
+    "mongoose": "^7.3.1",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7",
+    "puppeteer": "^20.7.3",
+    "selenium-webdriver": "^4.10.0"
+  }
+}
